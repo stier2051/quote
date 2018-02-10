@@ -1,0 +1,32 @@
+.body {
+
+    width: 600px;
+    margin: auto;
+}
+.head {
+    margin-top: 50px;
+    font-family: 'Alegreya SC', serif;
+    text-align: center;
+}
+.quote {
+    display: none;
+    width: 500px;
+    height: 300px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px blue;
+    
+}
+.autor {
+    text-align: right;
+}
+.buttons {
+    text-align: right;
+}
+.quote p {
+    font-family: 'Caveat', cursive;
+    font-size: 1.6em;
+}
